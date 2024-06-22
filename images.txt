@@ -1,2 +1,3 @@
 nginx:stable
 rancher/mirrored-pause:3.6
+mysql:latest
