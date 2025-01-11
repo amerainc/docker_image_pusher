@@ -4,3 +4,4 @@ mysql:latest
 docker.io/bitnami/redis:7.2.5-debian-12-r0
 openjdk:17.0.2-oraclelinux8
 metabase/metabase:latest
+superset/superset:latest
