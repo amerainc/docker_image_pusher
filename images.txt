@@ -6,3 +6,6 @@ openjdk:17.0.2-oraclelinux8
 metabase/metabase:latest
 apache/superset:dockerize
 bellsoft/liberica-openjdk-debian:21.0.5-cds
+grafana/loki:2.9.1
+grafana/promtail:2.9.1
+grafana/grafana:10.1.5
