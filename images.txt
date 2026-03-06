@@ -1,1 +1,1 @@
-node:20-bookworm
+node:20-bookworm-slim
